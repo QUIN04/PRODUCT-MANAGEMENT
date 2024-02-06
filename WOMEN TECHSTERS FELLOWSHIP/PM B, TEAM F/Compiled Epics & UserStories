@@ -1,0 +1,82 @@
+Epic 1  :Design and Develop a Personalized Diet-Friendly Food Delivery App
+User Stories:
+AS an health-conscious user, I WANT to set my dietary goals and preferences (weight loss,muscle gain, specific allergies etc.) and see curated restaurant and menu recommendations based on them. (Personalized dietary goal setting and recommendations)
+AS a food explorer, I WANT to discover healthy and delicious recipes within the app itself, so I can cook at home if I prefer.
+(Integrated recipe library with dietary filters)
+AS a calorie-conscious diner, I want to see detailed nutritional information for each menu item,
+including macronutrients, calorie count, and portion sizes. (Clear and comprehensive nutritional
+information)
+AS a motivated dieter, I want to track my calorie intake and progress towards my goals within
+the app, with visual graphs and charts. (Built-in calorie tracking and goal progress visualization)
+AS an accountable individual, I want to connect with a virtual dietitian or nutritionist for
+personalized guidance and support through the app. (Optional in-app dietitian/nutritionist
+consultation)
+
+Epic 2: Build a Supportive and Data-Driven Backend Infrastructure**
+User Stories:
+AS a data-driven dieter, I want the app to analyze my food choices and suggest healthier alternatives or portion adjustments based on my goals. (AI-powered meal suggestions and portion guidance)
+As a mindful eater, I want to receive personalized reminders and nudges to stay on track with my diet throughout the day. (Personalized goal reminders and motivational notifications)
+As an informed user, I want to access educational content and articles about healthy eating cooking tips, and dietary advice within the app. (Integrated educational resources and blog posts)
+AS a community-oriented user, I WANT to connect with other dieters or health enthusiasts through the app for support and motivation. (Optional in-app community forum or chat groups)
+
+As an health-focused individual, I WANT to integrate the app with my fitness tracker or health monitoring devices for holistic data analysis and progress tracking. (Optional integration with fitness trackers and health data platforms)
+
+
+Epic 1: User Registration and Authentication
+As a new user, I want to create an account on Nutriplanner so that I can access personalized features.
+User Story 1: As a user, I want to sign up for a Nutriplanner account using my email and password.
+User Story 2: As a user, I want to verify my email address to activate my account.
+User Story 3: As a user, I want the option to log in with my existing social media accounts.
+
+Epic 2: Personalized Meal Planning
+As a user, I want to create personalized meal plans based on my dietary preferences and nutritional goals.
+User Story 1: As a user, I want to set my dietary preferences (e.g., vegetarian, gluten-free) during account setup.
+User Story 2: As a user, I want to input my nutritional goals (e.g., calorie intake, and macronutrient ratios) for meal planning.
+User Story 3: As a user, I want Nutriplanner to suggest meal plans tailored to my dietary preferences and goals.
+
+Epic 3: Food Ordering and Delivery
+As a user, I want to order fresh foods and ingredients directly through the Nutriplanner app.
+User Story 1: As a user, I want to browse a catalog of fresh foods and ingredients available for purchase.
+User Story 2: As a user, I want to add items to my shopping cart and proceed to checkout seamlessly.
+User Story 3: As a user, I want to track the status of my order and receive notifications for delivery updates.
+
+Epic 4: Nutritional Content and Resources
+As a user, I want access to educational content and resources related to nutrition and wellness.
+User Story 1: As a user, I want to read articles and blogs on various nutrition topics within the Nutriplanner app.
+User Story 2: As a user, I want to watch video tutorials and cooking demos for healthy recipes.
+User Story 3: As a user, I want to join community forums and discussions to engage with other users and experts.
+
+Epic 5: Community and Social Features
+As a user, I want to connect with like-minded individuals and participate in wellness challenges.
+User Story 1: As a user, I want to create a profile and customize my personal preferences and settings.
+User Story 2: As a user, I want to follow other users and nutritionists for updates and recommendations.
+User Story 3: As a user, I want to join wellness challenges and track my progress toward health goals.
+
+Epic 6: Admin and Maintenance
+As an administrator, I want tools to manage user accounts, content, and app functionality.
+User Story 1: As an admin, I want access to a dashboard to monitor user activity and app performance.
+User Story 2: As an admin, I want to review and moderate user-generated content to ensure quality and compliance.
+User Story 3: As an admin, I want to push updates and announcements to users regarding new features and improvements.
+
+Epic 7: Digital Wallet Integration
+- User Story 1: As a user, I want to link my digital wallet to NutriPlanner for secure and convenient in-app transactions.
+
+Epic 8: Vendor and Farmers Market Integration
+- User Story 1: As a user, I want NutriPlanner to source fresh and local produce from exclusive vendors and farmers markets.
+
+Epic 9: Testing and Quality Assurance
+- User Story 1: As a user, I expect NutriPlanner to provide a seamless and bug-free experience during app usage.
+
+Epic 10: Marketing and Launch
+- User Story 1: As a user, I want to be informed about NutriPlanner's launch through engaging marketing campaigns.
+
+Epic 11: Monitoring and Feedback
+- User Story 1: As a user, I want to provide feedback on meals, services, and overall user experience through surveys.
+
+Epic 3: Meal Ordering and Scheduling
+- User Story 1: As a user, I want to browse through a variety of healthy meals and snacks available on NutriPlanner.
+- User Story 2: As a user, I want to schedule my meal orders in advance, specifying delivery times that suit my daily routine.
+- User Story 3: As a user, I want to receive timely notifications and updates on my scheduled meal deliveries.
+
+
+
